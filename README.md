@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The R Breaker strategy is a sophisticated intraday trading system that identifies potential breakout and reversal points based on the previous day's price action. This implementation features automatic parameter optimization to find the best settings for any given stock.
+The R Breaker strategy is a long-lasting intraday trading system that identifies potential breakout and reversal points based on the previous day's price action. This implementation features automatic parameter optimization to find the best settings for any given stock.
 
 ### Strategy Overview
 
